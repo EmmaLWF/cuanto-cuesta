@@ -1,0 +1,178 @@
+/* VIC: THIS IS MADE BY ME BUT ALREADY CHECKED  WITH AI */
+
+.labelSearch {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  margin: 0px;
+  
+}
+
+.searchBar {
+  width: fit-content;
+  height: fit-content;
+}
+
+.searchBox {
+  width: fit-content;
+  border-radius: 50px;
+  margin: 0px;
+}
+
+.selectedClass {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.searchBar20{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+   width: 90%;
+  max-width: 600px;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 50px; 
+  padding: 5px 15px;
+  width: 100%; 
+  box-sizing: border-box;
+}
+
+
+.react-tags-wrapper {
+  border: none;
+  padding: 0;
+  flex-grow: 1; 
+}
+
+
+.react-tags__tag {
+  background-color: rgba(28, 73, 28, 0.272);
+  color: rgb(13, 68, 13);
+  border-radius: 50px;
+  padding: 1px 6px;
+  margin: 2px 4px 1px 0;
+  font-size: 14px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: fit-content;
+  font-weight: bold;
+}
+
+.react-tags__tag svg {
+  width: 10px;
+  height: 10px;
+
+}
+
+
+
+
+.react-tags__remove {
+  color: white;
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 2px;
+  font-size: 8px;
+  font-weight: bold;
+}
+
+.react-tags__remove:hover {
+  color: #e0e0e0; 
+}
+
+
+.react-tags__textInput {
+  border: none;
+  outline: none; 
+  background: transparent;
+  font-size: 16px;
+  margin: 0 5px;
+  flex-grow: 1;
+  min-width: 100px;
+}
+
+.react-tags__textInput::placeholder {
+  color: #ccc;
+  font-style: italic;
+}
+
+
+.search-icon {
+  width: 20px;
+  height: 20px;
+  opacity: 0.6;
+}
+
+.react-tags__clearAll {
+ 
+  border: 1px solid #ddd;
+  background-color: white;
+  color: #555;
+  
+
+  border-radius: 50px; 
+  
+  
+  padding: 8px 15px;
+  
+  
+  cursor: pointer;
+  margin-left: 10px; 
+  font-size: 14px;
+  transition: background-color 0.2s ease; 
+}
+
+.react-tags__clearAll:hover {
+  background-color: #f5f5f5;
+  border-color: #bbb;
+}
+
+.clearAllClass {
+  border-radius: 50px;
+  background-color: lightgray;
+  color: black;
+  padding: 2px 4px 4px 6px;
+  margin: 5px 5px 1px 5px;
+  font-weight: normal;
+  font-size: 12px;
+}
+
+.tagInputFieldClass {
+  border-radius: 50px;
+  min-width: 450px
+}
+
+@media (max-width: 600px) {
+  .tagInputFieldClass {
+    min-width: 150px; 
+  }
+
+  .searchBar20 {
+    width: 95%; 
+  }
+
+  .clearAllClass {
+    padding: 8px 10px;
+    font-size: 12px;
+  }
+
+  .clearAllClass {
+  border-radius: 50px;
+  background-color: lightgray;
+  color: black;
+  padding: 4px 6px 4px 6px;
+  margin: 5px 5px 1px 5px;
+  font-weight: normal;
+  font-size: 12px;
+}
+}

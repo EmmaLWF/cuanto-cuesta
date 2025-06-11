@@ -1,0 +1,193 @@
+product_id,product_name,product_name_toLowerCase,supermarket,category_1,category_2,category_3,category_4,price,price_bs,stock
+60005616,"LEJÍA CON ESPUMA LIMPIADORA GAMA 3,785 LT",lejía con espuma limpiadora gama 3.785 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,8.25,817.4925,20
+60006888,"DETERGENTE LIQUIDO FLORAL GAMA 1,2 LT","detergente liquido floral gama 1,2 lt",2,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,5.99,593.5491,78
+60007153,CLORO NATURAL GAMA 1 LT,cloro natural gama 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.15,213.0435,1103
+60005615,LEJÍA CON ESPUMA LIMPIADORA GAMA 1 LT,lejía con espuma limpiadora gama 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.15,213.0435,85
+60007284,DETERGENTE EN POLVO GAMA 900 GR,detergente en polvo gama 900 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.69,266.5521,87
+60006924,DETERGENTE EN POLVO 3B+ 1 KG,detergente en polvo 3b+ 1 kg,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.99,296.2791,4
+60006399,DETERGENTE POLVO REGULAR ACE 800 GR,detergente polvo regular ace 800 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,4.25,421.1325,74
+60007053,DETERGENTE EN POLVO REGULAR ACE 2 KG,detergente en polvo regular ace 2 kg,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,9.49,940.3641,163
+60007316,BICLORO AJAX 1 LT,bicloro ajax 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,5.49,544.0041,113
+60007224,DETERGENTE EN POLVO MORADO ALIVE 1 KG,detergente en polvo morado alive 1 kg,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.49,345.8241,36
+60007022,DETERGENTE EN POLVO AZUL ALIVE 1 KG,detergente en polvo azul alive 1 kg,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.49,345.8241,
+60007237,"DETERGENTE LIQUIDO REVITACOLOR ARIEL 1,8 LT","detergente liquido revitacolor ariel 1,8 lt",2,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,17.95,1778.6655,114
+60007236,DETERGENTE LÍQUIDO REVITACOLOR ARIEL 800 ML,detergente líquido revitacolor ariel 800 ml,2,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,10.09,999.8181,40
+60005569,DETERGENTE ARIEL LIQUIDO CONCENTRADO DOBLE PODER 800 ML,detergente ariel liquido concentrado doble poder 800 ml,2,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,9.85,976.0365,60
+60006604,"DETERGENTE LIQUIDO ARIEL 1,8 LT","detergente liquido ariel 1,8 lt",2,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,17.95,1778.6655,280
+60000480,BLAN-CLORO 1 LT,blan-cloro 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.96,392.3964,4
+60006594,SUPER CLORO BONCLOR 1 LT,super cloro bonclor 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.05,203.1345,1
+60005848,CLORO BLANQUEADOR FRESH CLEAN CAROL 1 L,cloro blanqueador fresh clean carol 1 l,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.64,261.5976,3
+60007079,SUAVIZANTE FLORAL DOWNY 1400 CC,suavizante floral downy 1400 cc,2,Limpieza,Cuidado de prendas,Suavizante,,8.39,831.3651,196
+60007055,SUAVIZANTE AMANECER DOWNY 700 ML,suavizante amanecer downy 700 ml,2,Limpieza,Cuidado de prendas,Suavizante,,4.38,434.0142,191
+60005971,CLORO JABONOSO BLEACH FIT 1 LT,cloro jabonoso bleach fit 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.05,302.2245,57
+60006310,DETERGENTE LIQUIDO PARA ROPA FIT 1 LT,detergente liquido para ropa fit 1 lt,2,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,6.99,692.6391,52
+60005421,LEJIA CON ESPUMA KRIS 1 LT,lejia con espuma kris 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.25,222.9525,237
+60005133,CLORO NATURAL KRIS 1 LT,cloro natural kris 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.25,222.9525,654
+60004674,PANELA LAS LLAVES FRESCA FRAGANCIA 160 gr,panela las llaves fresca fragancia 160 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,0.77,76.2993,520
+60002633,DETERGENTE EN POLVO LIMON LAS LLAVES 900 GR,detergente en polvo limon las llaves 900 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3,297.27,245
+60002353,DETERGENTE EN POLVO LAS LLAVES FLORAL 900 GR,detergente en polvo las llaves floral 900 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3,297.27,591
+60000906,PANELA FLORAL LAS LLAVES 250 GR,panela floral las llaves 250 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,1.19,117.9171,812
+60006386,JABON PANELA TRADICIONAL FLORAL LAS LLAVES 200 GR,jabon panela tradicional floral las llaves 200 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,0.95,94.1355,274
+60004373,DETERGENTE EN POLVO BEBE LAS LLAVES 900 GR,detergente en polvo bebe las llaves 900 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3,297.27,483
+60006593,DETERGENTE EN POLVO REGULAR MULTI CLEAN 900 GR,detergente en polvo regular multi clean 900 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.75,272.4975,394
+60003183,CLORO REGULAR NEVEX ULTRA 1 L,cloro regular nevex ultra 1 l,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.55,351.7695,65
+60003185,CLORO ULTRA LIMON NEVEX 1 LT,cloro ultra limon nevex 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.79,375.5511,64
+60004146,CLORO ULTRA NEVEX AROMA BEBÉ 1 LT,cloro ultra nevex aroma bebé 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.79,375.5511,36
+60006923,DETERGENTE EN POLVO OXY 1 KG,detergente en polvo oxy 1 kg,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.39,335.9151,125
+60004246,SUAVIZANTE BABY SUAVITEL 1.9 LT,suavizante baby suavitel 1.9 lt,2,Limpieza,Cuidado de prendas,Suavizante,,8.99,890.8191,50
+60006346,SUAVIZANTE FRESCA PRIMAVERA SUAVITEL 1 LT,suavizante fresca primavera suavitel 1 lt,2,Limpieza,Cuidado de prendas,Suavizante,,4.99,494.4591,39
+60007004,SUAVIZANTE BABY SUAVITEL 1 LT,suavizante baby suavitel 1 lt,2,Limpieza,Cuidado de prendas,Suavizante,,4.29,425.0961,39
+60005021,SUAVIZANTE FRESCA PRIMAVERA SUAVITEL 2 L,suavizante fresca primavera suavitel 2 l,2,Limpieza,Cuidado de prendas,Suavizante,,7.45,738.2205,133
+60007156,SUAVIZANTE CUIDADO SUPERIOR SUAVITEL 970 ML,suavizante cuidado superior suavitel 970 ml,2,Limpieza,Cuidado de prendas,Suavizante,,4.99,494.4591,47
+60004393,SUAVIZANTE VAINILLA CUIDADO SUPERIOR SUAVITEL 1.9 LT,suavizante vainilla cuidado superior suavitel 1.9 lt,2,Limpieza,Cuidado de prendas,Suavizante,,8.99,890.8191,23
+60004386,SUAVIZANTE SUAVITEL FRESCA PRIMAVERA 1 LT,suavizante suavitel fresca primavera 1 lt,2,Limpieza,Cuidado de prendas,Suavizante,,4.25,421.1325,328
+60005744,DETERGENTE LÍQUIDO LIMÓN VALE 1 LT,detergente líquido limón vale 1 lt,2,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,5.75,569.7675,41
+60005743,DETERGENTE VALE LIQUIDO DE BEBE 1 LT,detergente vale liquido de bebe 1 lt,2,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,5.75,569.7675,51
+60007085,QUITA MANCHA GEL SIN CLORO ROSA VANISH 900 ML,quita mancha gel sin cloro rosa vanish 900 ml,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,11.34,1123.6806,56
+60004213,QUITAMANCHAS LÍQUIDO PARA ROPA BLANCA VANISH 900 ML,quitamanchas líquido para ropa blanca vanish 900 ml,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,11.34,1123.6806,26
+60006125,QUITAMANCHAS EN POLVO ROSA DOYPACK VANISH 450 GR,quitamanchas en polvo rosa doypack vanish 450 gr,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,18.99,1881.7191,7
+60006124,QUITAMANCHAS EN POLVO BLANCO DOYPACK VANISH 450 GR,quitamanchas en polvo blanco doypack vanish 450 gr,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,18.99,1881.7191,13
+60006574,DETERGENTE LIQUIDO VEL ROSA 1 LT,detergente liquido vel rosa 1 lt,2,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,9.65,956.2185,76
+60001223,SPRAY HEAVY ORGINAL NIAGARA 567 GR,spray heavy orginal niagara 567 gr,2,Limpieza,Cuidado de prendas,Planchado,,11.09,1098.9081,21
+60004113,APRESTO PARA PLANCHAR LAVANDA NIÁGARA 567 GR,apresto para planchar lavanda niágara 567 gr,2,Limpieza,Cuidado de prendas,Planchado,,11.09,1098.9081,22
+60004954,DETERGENTE EXPLOSIÓN CÍTRICA VALE 900 GR,detergente explosión cítrica vale 900 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.45,341.8605,90
+60004958,DETERGENTE CARICIAS DE BEBE VALE 900 GR,detergente caricias de bebe vale 900 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.45,341.8605,82
+60006398,DETERGENTE EN POLVO TOQUE DOWNY ARIEL 750 GR,detergente en polvo toque downy ariel 750 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,4.9,485.541,0
+60006397,DETERGENTE EN POLVO REGULAR ARIEL 850 GR,detergente en polvo regular ariel 850 gr,2,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,5.35,530.1315,0
+60004631,DETERGENTE LÍQUIDO LAS LLAVES AROMA BEBÉ 1 LT,detergente líquido las llaves aroma bebé 1 lt,2,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,9.99,989.9091,0
+60000032,CLORO NATURAL MAS 1 LT,cloro natural mas 1 lt,2,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.85,282.4065,0
+60003237,LIMPIADOR DE CERÁMICA FULLER 1 LT,limpiador de cerámica fuller 1 lt,2,Limpieza,Limpiadores de baño,,,9.38,929.4642,33
+60005715,LIMPIADOR DE POCETAS GRASSOFF 1 LT,limpiador de pocetas grassoff 1 lt,2,Limpieza,Limpiadores de baño,,,5.25,520.2225,13
+60005068,LIMPIADOR DE BAÑO 5 EN 1 MR. MÚSCULO 500 ML,limpiador de baño 5 en 1 mr. músculo 500 ml,2,Limpieza,Limpiadores de baño,,,6.79,672.8211,50
+60005329,LIMPIADOR DE INODOROS FRAGANCIA MARIA Mr MUSCLO 500 ML,limpiador de inodoros fragancia maria mr musclo 500 ml,2,Limpieza,Limpiadores de baño,,,4.29,425.0961,20
+60002166,LIMPIADOR SCIOGLICALCARE GEL SMAC 500 ML,limpiador scioglicalcare gel smac 500 ml,2,Limpieza,Limpiadores de baño,,,4.29,425.0961,2
+60006163,PASTILLA LIMPIADORA PARA SANITARIOS VALE 96 GR,pastilla limpiadora para sanitarios vale 96 gr,2,Limpieza,Limpiadores de baño,,,4.09,405.2781,144
+60002577,LIMPIADOR DE POCETAS WINTER FRESH CICLON 1LT,limpiador de pocetas winter fresh ciclon 1lt,2,Limpieza,Limpiadores de baño,,,8.79,871.00,44
+60005616,"LEJÍA CON ESPUMA LIMPIADORA GAMA 3,785 LT","lejía con espuma limpiadora gama 3,785 lt",1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,8.25,817.49,20
+60006888,"DETERGENTE LIQUIDO FLORAL GAMA 1,2 LT","detergente liquido floral gama 1,2 lt",1,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,5.99,593.55,78
+60007153,CLORO NATURAL GAMA 1 LT,cloro natural gama 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.15,213.04,1103
+60005615,LEJÍA CON ESPUMA LIMPIADORA GAMA 1 LT,lejía con espuma limpiadora gama 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.15,213.04,85
+60007284,DETERGENTE EN POLVO GAMA 900 GR,detergente en polvo gama 900 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.69,266.55,87
+60006924,DETERGENTE EN POLVO 3B+ 1 KG,detergente en polvo 3b+ 1 kg,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.99,296.28,4
+60006399,DETERGENTE POLVO REGULAR ACE 800 GR,detergente polvo regular ace 800 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,4.25,421.13,74
+60007053,DETERGENTE EN POLVO REGULAR ACE 2 KG,detergente en polvo regular ace 2 kg,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,9.49,940.36,163
+60007316,BICLORO AJAX 1 LT,bicloro ajax 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,5.49,544.00,113
+60007224,DETERGENTE EN POLVO MORADO ALIVE 1 KG,detergente en polvo morado alive 1 kg,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.49,345.82,36
+60007022,DETERGENTE EN POLVO AZUL ALIVE 1 KG,detergente en polvo azul alive 1 kg,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.49,345.82,
+60007237,"DETERGENTE LIQUIDO REVITACOLOR ARIEL 1,8 LT","detergente liquido revitacolor ariel 1,8 lt",1,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,17.95,1778.67,114
+60007236,DETERGENTE LÍQUIDO REVITACOLOR ARIEL 800 ML,detergente líquido revitacolor ariel 800 ml,1,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,10.09,999.82,40
+60005569,DETERGENTE ARIEL LIQUIDO CONCENTRADO DOBLE PODER 800 ML,detergente ariel liquido concentrado doble poder 800 ml,1,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,9.85,976.04,60
+60006604,"DETERGENTE LIQUIDO ARIEL 1,8 LT","detergente liquido ariel 1,8 lt",1,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,17.95,1778.67,280
+60000480,BLAN-CLORO 1 LT,blan-cloro 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.96,392.40,4
+60006594,SUPER CLORO BONCLOR 1 LT,super cloro bonclor 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.05,203.13,1
+60005848,CLORO BLANQUEADOR FRESH CLEAN CAROL 1 L,cloro blanqueador fresh clean carol 1 l,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.64,261.60,3
+60007079,SUAVIZANTE FLORAL DOWNY 1400 CC,suavizante floral downy 1400 cc,1,Limpieza,Cuidado de prendas,Suavizante,,8.39,831.37,196
+60007055,SUAVIZANTE AMANECER DOWNY 700 ML,suavizante amanecer downy 700 ml,1,Limpieza,Cuidado de prendas,Suavizante,,4.38,434.01,191
+60005971,CLORO JABONOSO BLEACH FIT 1 LT,cloro jabonoso bleach fit 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.05,302.22,57
+60006310,DETERGENTE LIQUIDO PARA ROPA FIT 1 LT,detergente liquido para ropa fit 1 lt,1,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,6.99,692.64,52
+60005421,LEJIA CON ESPUMA KRIS 1 LT,lejia con espuma kris 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.25,222.95,237
+60005133,CLORO NATURAL KRIS 1 LT,cloro natural kris 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.25,222.95,654
+60004674,PANELA LAS LLAVES FRESCA FRAGANCIA 160 gr,panela las llaves fresca fragancia 160 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,0.77,76.30,520
+60002633,DETERGENTE EN POLVO LIMON LAS LLAVES 900 GR,detergente en polvo limon las llaves 900 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3,297.27,245
+60002353,DETERGENTE EN POLVO LAS LLAVES FLORAL 900 GR,detergente en polvo las llaves floral 900 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3,297.27,591
+60000906,PANELA FLORAL LAS LLAVES 250 GR,panela floral las llaves 250 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,1.19,117.92,812
+60006386,JABON PANELA TRADICIONAL FLORAL LAS LLAVES 200 GR,jabon panela tradicional floral las llaves 200 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,0.95,94.14,274
+60004373,DETERGENTE EN POLVO BEBE LAS LLAVES 900 GR,detergente en polvo bebe las llaves 900 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3,297.27,483
+60006593,DETERGENTE EN POLVO REGULAR MULTI CLEAN 900 GR,detergente en polvo regular multi clean 900 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.75,272.50,394
+60003183,CLORO REGULAR NEVEX ULTRA 1 L,cloro regular nevex ultra 1 l,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.55,351.77,65
+60003185,CLORO ULTRA LIMON NEVEX 1 LT,cloro ultra limon nevex 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.79,375.55,64
+60004146,CLORO ULTRA NEVEX AROMA BEBÉ 1 LT,cloro ultra nevex aroma bebé 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.79,375.55,36
+60006923,DETERGENTE EN POLVO OXY 1 KG,detergente en polvo oxy 1 kg,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.39,335.92,125
+60004246,SUAVIZANTE BABY SUAVITEL 1.9 LT,suavizante baby suavitel 1.9 lt,1,Limpieza,Cuidado de prendas,Suavizante,,8.99,890.82,50
+60006346,SUAVIZANTE FRESCA PRIMAVERA SUAVITEL 1 LT,suavizante fresca primavera suavitel 1 lt,1,Limpieza,Cuidado de prendas,Suavizante,,4.99,494.46,39
+60007004,SUAVIZANTE BABY SUAVITEL 1 LT,suavizante baby suavitel 1 lt,1,Limpieza,Cuidado de prendas,Suavizante,,4.29,425.10,39
+60005021,SUAVIZANTE FRESCA PRIMAVERA SUAVITEL 2 L,suavizante fresca primavera suavitel 2 l,1,Limpieza,Cuidado de prendas,Suavizante,,7.45,738.22,133
+60007156,SUAVIZANTE CUIDADO SUPERIOR SUAVITEL 970 ML,suavizante cuidado superior suavitel 970 ml,1,Limpieza,Cuidado de prendas,Suavizante,,4.99,494.46,47
+60004393,SUAVIZANTE VAINILLA CUIDADO SUPERIOR SUAVITEL 1.9 LT,suavizante vainilla cuidado superior suavitel 1.9 lt,1,Limpieza,Cuidado de prendas,Suavizante,,8.99,890.82,23
+60004386,SUAVIZANTE SUAVITEL FRESCA PRIMAVERA 1 LT,suavizante suavitel fresca primavera 1 lt,1,Limpieza,Cuidado de prendas,Suavizante,,4.25,421.13,328
+60005744,DETERGENTE LÍQUIDO LIMÓN VALE 1 LT,detergente líquido limón vale 1 lt,1,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,5.75,569.77,41
+60005743,DETERGENTE VALE LIQUIDO DE BEBE 1 LT,detergente vale liquido de bebe 1 lt,1,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,5.75,569.77,51
+60007085,QUITA MANCHA GEL SIN CLORO ROSA VANISH 900 ML,quita mancha gel sin cloro rosa vanish 900 ml,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,11.34,1123.68,56
+60004213,QUITAMANCHAS LÍQUIDO PARA ROPA BLANCA VANISH 900 ML,quitamanchas líquido para ropa blanca vanish 900 ml,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,11.34,1123.68,26
+60006125,QUITAMANCHAS EN POLVO ROSA DOYPACK VANISH 450 GR,quitamanchas en polvo rosa doypack vanish 450 gr,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,18.99,1881.72,7
+60006124,QUITAMANCHAS EN POLVO BLANCO DOYPACK VANISH 450 GR,quitamanchas en polvo blanco doypack vanish 450 gr,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,18.99,1881.72,13
+60006574,DETERGENTE LIQUIDO VEL ROSA 1 LT,detergente liquido vel rosa 1 lt,1,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,9.65,956.22,76
+60001223,SPRAY HEAVY ORGINAL NIAGARA 567 GR,spray heavy orginal niagara 567 gr,1,Limpieza,Cuidado de prendas,Planchado,,11.09,1098.91,21
+60004113,APRESTO PARA PLANCHAR LAVANDA NIÁGARA 567 GR,apresto para planchar lavanda niágara 567 gr,1,Limpieza,Cuidado de prendas,Planchado,,11.09,1098.91,22
+60004954,DETERGENTE EXPLOSIÓN CÍTRICA VALE 900 GR,detergente explosión cítrica vale 900 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.45,341.86,90
+60004958,DETERGENTE CARICIAS DE BEBE VALE 900 GR,detergente caricias de bebe vale 900 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.45,341.86,82
+60006398,DETERGENTE EN POLVO TOQUE DOWNY ARIEL 750 GR,detergente en polvo toque downy ariel 750 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,4.9,485.54,0
+60006397,DETERGENTE EN POLVO REGULAR ARIEL 850 GR,detergente en polvo regular ariel 850 gr,1,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,5.35,530.13,0
+60004631,DETERGENTE LÍQUIDO LAS LLAVES AROMA BEBÉ 1 LT,detergente líquido las llaves aroma bebé 1 lt,1,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,9.99,989.91,0
+60000032,CLORO NATURAL MAS 1 LT,cloro natural mas 1 lt,1,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.85,282.41,0
+60003237,LIMPIADOR DE CERÁMICA FULLER 1 LT,limpiador de cerámica fuller 1 lt,1,Limpieza,Limpiadores de baño,,,9.38,929.46,33
+60005715,LIMPIADOR DE POCETAS GRASSOFF 1 LT,limpiador de pocetas grassoff 1 lt,1,Limpieza,Limpiadores de baño,,,5.25,520.22,13
+60005068,LIMPIADOR DE BAÑO 5 EN 1 MR. MÚSCULO 500 ML,limpiador de baño 5 en 1 mr. músculo 500 ml,1,Limpieza,Limpiadores de baño,,,6.79,672.82,50
+60005329,LIMPIADOR DE INODOROS FRAGANCIA MARIA Mr MUSCLO 500 ML,limpiador de inodoros fragancia maria mr musclo 500 ml,1,Limpieza,Limpiadores de baño,,,4.29,425.10,20
+60002166,LIMPIADOR SCIOGLICALCARE GEL SMAC 500 ML,limpiador scioglicalcare gel smac 500 ml,1,Limpieza,Limpiadores de baño,,,4.29,425.10,2
+60006163,PASTILLA LIMPIADORA PARA SANITARIOS VALE 96 GR,pastilla limpiadora para sanitarios vale 96 gr,1,Limpieza,Limpiadores de baño,,,4.09,405.28,144
+60002577,LIMPIADOR DE POCETAS WINTER FRESH CICLON 1LT,limpiador de pocetas winter fresh ciclon 1lt,1,Limpieza,Limpiadores de baño,,,8.79,871.00,44
+60005616,"LEJÍA CON ESPUMA LIMPIADORA GAMA 3,785 LT","lejía con espuma limpiadora gama 3,785 lt",3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,7.01,694.87,20
+60006888,"DETERGENTE LIQUIDO FLORAL GAMA 1,2 LT","detergente liquido floral gama 1,2 lt",3,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,5.09,504.52,78
+60007153,CLORO NATURAL GAMA 1 LT,cloro natural gama 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,1.83,181.09,1103
+60005615,LEJÍA CON ESPUMA LIMPIADORA GAMA 1 LT,lejía con espuma limpiadora gama 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,1.83,181.09,85
+60007284,DETERGENTE EN POLVO GAMA 900 GR,detergente en polvo gama 900 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.29,226.57,87
+60006924,DETERGENTE EN POLVO 3B+ 1 KG,detergente en polvo 3b+ 1 kg,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.54,251.84,4
+60006399,DETERGENTE POLVO REGULAR ACE 800 GR,detergente polvo regular ace 800 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,3.61,357.96,74
+60007053,DETERGENTE EN POLVO REGULAR ACE 2 KG,detergente en polvo regular ace 2 kg,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,8.07,799.31,163
+60007316,BICLORO AJAX 1 LT,bicloro ajax 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,4.67,462.40,113
+60007224,DETERGENTE EN POLVO MORADO ALIVE 1 KG,detergente en polvo morado alive 1 kg,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.97,293.95,36
+60007022,DETERGENTE EN POLVO AZUL ALIVE 1 KG,detergente en polvo azul alive 1 kg,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.97,293.95,
+60007237,"DETERGENTE LIQUIDO REVITACOLOR ARIEL 1,8 LT","detergente liquido revitacolor ariel 1,8 lt",3,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,15.26,1511.87,114
+60007236,DETERGENTE LÍQUIDO REVITACOLOR ARIEL 800 ML,detergente líquido revitacolor ariel 800 ml,3,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,8.58,849.85,40
+60005569,DETERGENTE ARIEL LIQUIDO CONCENTRADO DOBLE PODER 800 ML,detergente ariel liquido concentrado doble poder 800 ml,3,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,8.37,829.63,60
+60006604,"DETERGENTE LIQUIDO ARIEL 1,8 LT","detergente liquido ariel 1,8 lt",3,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,15.26,1511.87,280
+60000480,BLAN-CLORO 1 LT,blan-cloro 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.37,333.54,4
+60006594,SUPER CLORO BONCLOR 1 LT,super cloro bonclor 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,1.74,172.66,1
+60005848,CLORO BLANQUEADOR FRESH CLEAN CAROL 1 L,cloro blanqueador fresh clean carol 1 l,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.24,222.36,3
+60007079,SUAVIZANTE FLORAL DOWNY 1400 CC,suavizante floral downy 1400 cc,3,Limpieza,Cuidado de prendas,Suavizante,,7.13,706.66,196
+60007055,SUAVIZANTE AMANECER DOWNY 700 ML,suavizante amanecer downy 700 ml,3,Limpieza,Cuidado de prendas,Suavizante,,3.72,368.91,191
+60005971,CLORO JABONOSO BLEACH FIT 1 LT,cloro jabonoso bleach fit 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.59,256.89,57
+60006310,DETERGENTE LIQUIDO PARA ROPA FIT 1 LT,detergente liquido para ropa fit 1 lt,3,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,5.94,588.74,52
+60005421,LEJIA CON ESPUMA KRIS 1 LT,lejia con espuma kris 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,1.91,189.51,237
+60005133,CLORO NATURAL KRIS 1 LT,cloro natural kris 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,1.91,189.51,654
+60004674,PANELA LAS LLAVES FRESCA FRAGANCIA 160 gr,panela las llaves fresca fragancia 160 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,0.65,64.85,520
+60002633,DETERGENTE EN POLVO LIMON LAS LLAVES 900 GR,detergente en polvo limon las llaves 900 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.55,252.68,245
+60002353,DETERGENTE EN POLVO LAS LLAVES FLORAL 900 GR,detergente en polvo las llaves floral 900 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.55,252.68,591
+60000906,PANELA FLORAL LAS LLAVES 250 GR,panela floral las llaves 250 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,1.01,100.23,812
+60006386,JABON PANELA TRADICIONAL FLORAL LAS LLAVES 200 GR,jabon panela tradicional floral las llaves 200 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,0.81,80.02,274
+60004373,DETERGENTE EN POLVO BEBE LAS LLAVES 900 GR,detergente en polvo bebe las llaves 900 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.55,252.68,483
+60006593,DETERGENTE EN POLVO REGULAR MULTI CLEAN 900 GR,detergente en polvo regular multi clean 900 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.34,231.62,394
+60003183,CLORO REGULAR NEVEX ULTRA 1 L,cloro regular nevex ultra 1 l,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.02,299.00,65
+60003185,CLORO ULTRA LIMON NEVEX 1 LT,cloro ultra limon nevex 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.22,319.22,64
+60004146,CLORO ULTRA NEVEX AROMA BEBÉ 1 LT,cloro ultra nevex aroma bebé 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,3.22,319.22,36
+60006923,DETERGENTE EN POLVO OXY 1 KG,detergente en polvo oxy 1 kg,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.88,285.53,125
+60004246,SUAVIZANTE BABY SUAVITEL 1.9 LT,suavizante baby suavitel 1.9 lt,3,Limpieza,Cuidado de prendas,Suavizante,,7.64,757.20,50
+60006346,SUAVIZANTE FRESCA PRIMAVERA SUAVITEL 1 LT,suavizante fresca primavera suavitel 1 lt,3,Limpieza,Cuidado de prendas,Suavizante,,4.24,420.29,39
+60007004,SUAVIZANTE BABY SUAVITEL 1 LT,suavizante baby suavitel 1 lt,3,Limpieza,Cuidado de prendas,Suavizante,,3.65,361.33,39
+60005021,SUAVIZANTE FRESCA PRIMAVERA SUAVITEL 2 L,suavizante fresca primavera suavitel 2 l,3,Limpieza,Cuidado de prendas,Suavizante,,6.33,627.49,133
+60007156,SUAVIZANTE CUIDADO SUPERIOR SUAVITEL 970 ML,suavizante cuidado superior suavitel 970 ml,3,Limpieza,Cuidado de prendas,Suavizante,,4.24,420.29,47
+60004393,SUAVIZANTE VAINILLA CUIDADO SUPERIOR SUAVITEL 1.9 LT,suavizante vainilla cuidado superior suavitel 1.9 lt,3,Limpieza,Cuidado de prendas,Suavizante,,7.64,757.20,23
+60004386,SUAVIZANTE SUAVITEL FRESCA PRIMAVERA 1 LT,suavizante suavitel fresca primavera 1 lt,3,Limpieza,Cuidado de prendas,Suavizante,,3.61,357.96,328
+60005744,DETERGENTE LÍQUIDO LIMÓN VALE 1 LT,detergente líquido limón vale 1 lt,3,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,4.89,484.30,41
+60005743,DETERGENTE VALE LIQUIDO DE BEBE 1 LT,detergente vale liquido de bebe 1 lt,3,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,4.89,484.30,51
+60007085,QUITA MANCHA GEL SIN CLORO ROSA VANISH 900 ML,quita mancha gel sin cloro rosa vanish 900 ml,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,9.64,955.13,56
+60004213,QUITAMANCHAS LÍQUIDO PARA ROPA BLANCA VANISH 900 ML,quitamanchas líquido para ropa blanca vanish 900 ml,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,9.64,955.13,26
+60006125,QUITAMANCHAS EN POLVO ROSA DOYPACK VANISH 450 GR,quitamanchas en polvo rosa doypack vanish 450 gr,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,16.14,1599.46,7
+60006124,QUITAMANCHAS EN POLVO BLANCO DOYPACK VANISH 450 GR,quitamanchas en polvo blanco doypack vanish 450 gr,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,16.14,1599.46,13
+60006574,DETERGENTE LIQUIDO VEL ROSA 1 LT,detergente liquido vel rosa 1 lt,3,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,8.20,812.79,76
+60001223,SPRAY HEAVY ORGINAL NIAGARA 567 GR,spray heavy orginal niagara 567 gr,3,Limpieza,Cuidado de prendas,Planchado,,9.43,934.07,21
+60004113,APRESTO PARA PLANCHAR LAVANDA NIÁGARA 567 GR,apresto para planchar lavanda niágara 567 gr,3,Limpieza,Cuidado de prendas,Planchado,,9.43,934.07,22
+60004954,DETERGENTE EXPLOSIÓN CÍTRICA VALE 900 GR,detergente explosión cítrica vale 900 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.93,290.58,90
+60004958,DETERGENTE CARICIAS DE BEBE VALE 900 GR,detergente caricias de bebe vale 900 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,2.93,290.58,82
+60006398,DETERGENTE EN POLVO TOQUE DOWNY ARIEL 750 GR,detergente en polvo toque downy ariel 750 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,4.17,412.71,0
+60006397,DETERGENTE EN POLVO REGULAR ARIEL 850 GR,detergente en polvo regular ariel 850 gr,3,Limpieza,Cuidado de prendas,Detergente,Detergente en polvo y panela,4.55,450.61,0
+60004631,DETERGENTE LÍQUIDO LAS LLAVES AROMA BEBÉ 1 LT,detergente líquido las llaves aroma bebé 1 lt,3,Limpieza,Cuidado de prendas,Detergente,Detergente líquido,8.49,841.42,0
+60000032,CLORO NATURAL MAS 1 LT,cloro natural mas 1 lt,3,Limpieza,Cuidado de prendas,Blanqueador y cloro,,2.42,240.05,0
+60003237,LIMPIADOR DE CERÁMICA FULLER 1 LT,limpiador de cerámica fuller 1 lt,3,Limpieza,Limpiadores de baño,,,7.97,790.04,33
+60005715,LIMPIADOR DE POCETAS GRASSOFF 1 LT,limpiador de pocetas grassoff 1 lt,3,Limpieza,Limpiadores de baño,,,4.46,442.19,13
+60005068,LIMPIADOR DE BAÑO 5 EN 1 MR. MÚSCULO 500 ML,limpiador de baño 5 en 1 mr. músculo 500 ml,3,Limpieza,Limpiadores de baño,,,5.77,571.90,50
+60005329,LIMPIADOR DE INODOROS FRAGANCIA MARIA Mr MUSCLO 500 ML,limpiador de inodoros fragancia maria mr musclo 500 ml,3,Limpieza,Limpiadores de baño,,,3.65,361.33,20
+60002166,LIMPIADOR SCIOGLICALCARE GEL SMAC 500 ML,limpiador scioglicalcare gel smac 500 ml,3,Limpieza,Limpiadores de baño,,,3.65,361.33,2
+60006163,PASTILLA LIMPIADORA PARA SANITARIOS VALE 96 GR,pastilla limpiadora para sanitarios vale 96 gr,3,Limpieza,Limpiadores de baño,,,3.48,344.49,144
+60002577,LIMPIADOR DE POCETAS WINTER FRESH CICLON 1LT,limpiador de pocetas winter fresh ciclon 1lt,3,Limpieza,Limpiadores de baño,,,7.47,740.35,44

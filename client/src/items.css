@@ -1,0 +1,77 @@
+/* VIC: THIS IS MADE BY ME BUT ALREADY CHECKED  WITH AI */
+
+
+.cuadradoItem {
+  background-color: whitesmoke;
+  border-radius: 10px;
+  margin: 10px 0;
+  width: 100%; /* Ocupa todo el ancho disponible */
+  box-sizing: border-box;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logoSupermercado {
+  height: 90px;
+  width: 90px;
+  padding: 0;
+  margin: 0 0 15px 0;
+}
+
+.nombreYprecio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.itemPrice {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* === AHORA, AÑADIMOS ESTILOS SOLO PARA PANTALLAS GRANDES === */
+@media (min-width: 651px) {
+  
+  /* ESTILOS DE ESCRITORIO */
+  .cuadradoItem {
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 500px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+    background-color: white;
+  }
+
+  .logoSupermercado {
+    height: 90px;
+    width: 90px;
+    padding-left: 20px;
+    padding-right: 90px;
+    margin: 0;
+  }
+
+  .nombreYprecio {
+    align-items: flex-end;
+    height: 100px;
+    margin: 10px;
+    flex-grow: 1;  
+    text-align: right;
+  }
+
+  .itemPrice {
+    align-self: flex-end;
+    margin-top: 0;
+  }
+
+  .nombreItem {
+    align-self: flex-end;
+    justify-self: flex-end;
+  }
+}

@@ -1,3 +1,14 @@
+
+import { useState, useEffect, FC, Dispatch, SetStateAction } from 'react'
+import logo from '../img/logo.png'
+import Items from "./items"
+import Search from "./search"
+// import { format } from 'date-fns';
+import { Tag as ReactTag } from 'react-tag-input';
+
+import './App.css'
+
+/* define the type of items and tags, either using interface or type is fine */
 export interface Item {
   item_name: string;
   item_name_toLowerCase: string;
@@ -6,34 +17,41 @@ export interface Item {
   SupermercadoId: number;
 }
 
-export interface Tag {
+/* export interface Tag {
   id: string;
   text: string;
-}
+} */
 
-import { useState, useEffect, FC, Dispatch, SetStateAction } from 'react'
-import logo from '../img/logo.png'
-import Items from "./items"
-import Search from "./search"
-// import { format } from 'date-fns';
-
-import './App.css'
-
-
+/* function App() {
+  const [items, setItems] = useState([]);
+  const [tags, setTags] = useState([]); */
 
 const App: FC = () => {
   const [items, setItems] = useState<Item[]>([]);
-  const [tags, setTags] = useState<Tag[]>([]);
+  const [tags, setTags] = useState<ReactTag[]>([]);
 
     console.log('this is items', items);
 
+  /* function getItems() {
+    fetch('http://192.168.31.133:3000/itemTags', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(tags),
+        })
+    .then((res) => res.json())
+    .then((data) => setItems(data));
+  } */
+
   const getItems = async (): Promise<void> => {
     try {
-      const response = await fetch('http://192.168.31.133:3000/itemTags', { // which server are you using instead of localhost
+      const response = await fetch('http://192.168.31.133:3000/itemTags', { // which server are you using instead of localhost?
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
+        // send tags as response body
         body: JSON.stringify(tags),
       });
       const data: Item[] = await response.json();
@@ -43,6 +61,7 @@ const App: FC = () => {
     }
   };
 
+  // call getItems again when the tags changes
   useEffect(() => {
     getItems();
   }, [tags]);
@@ -61,8 +80,8 @@ const App: FC = () => {
         <div className='greenblock'>
           {items.length ?
           <div className='itemBlock' >
-            {items.map((element, index) => (
-                <Items key={index} itemsOO={element} />
+            {items.map((element) => (
+              <Items itemsOO={element} itemsOg={items}  ></Items>
               ))}
           </div>
           :

@@ -1,32 +1,44 @@
 import './search.css';
 // import { useState } from  'react';
-import { WithContext as ReactTags, SEPARATORS } from 'react-tag-input';
+import { WithContext as ReactTags, SEPARATORS, type Tag } from 'react-tag-input'; /* a tagging component */
+import type { Item } from './App';
 
-function Search(props) {
+interface SearchProps {
+  tags: Tag[];
+  setTags: React.Dispatch<React.SetStateAction<Tag[]>>;
+  items: Item[];
+}
+
+/* function Search(props) {
   const tags = props.tags;
-  const setTags = props.setTags
+  const setTags = props.setTags */
 
+const Search: React.FC<SearchProps> = ({ tags, setTags, items }) => {
 
-  const handleDelete = (index) => {
+  //const handleDelete = (index) => {
+  const handleDelete = (index: number): void => {
     setTags(tags.filter((_, i) => i !== index));
   };
 
-  const onTagUpdate = (index, newTag) => {
+  //const onTagUpdate = (index, newTag) => {
+  const onTagUpdate = (index: number, newTag: Tag): void => {
     const updatedTags = [...tags];
     updatedTags.splice(index, 1, newTag);
     setTags(updatedTags);
   };
 
-  const handleAddition = (tag) => {
+  /* add new tags to the end */
+  //const handleAddition = (tag) => {
+  const handleAddition = (tag: Tag): void => {
     setTags((prevTags) => {
       return [...prevTags, tag];
     });
   }
 
 
-  const handleDrag = (tag, currPos, newPos) => {
-    const newTags = tags.slice();
-
+  //const handleDrag = (tag, currPos, newPos) => {
+  const handleDrag = (tag: Tag, currPos: number, newPos: number): void => {
+    const newTags = [...tags];
     newTags.splice(currPos, 1);
     newTags.splice(newPos, 0, tag);
 
@@ -34,11 +46,12 @@ function Search(props) {
     setTags(newTags);
   };
 
-  const handleTagClick = (index) => {
+  //const handleTagClick = (index) => {
+  const handleTagClick = (index: number): void => {
     console.log('The tag at index ' + index + ' was clicked');
   };
 
-  const onClearAll = () => {
+  const onClearAll = (): void => {
     setTags([]);
   };
 
@@ -50,11 +63,12 @@ function Search(props) {
       <div className='searchBar20 search-container'>
         <ReactTags
         classNames={{
-            root: 'react-tags-wrapper', // Clase para el contenedor principal de la librería
+            //root: 'react-tags-wrapper', // Clase para el contenedor principal de la librería
+            tags: 'react-tags-wrapper', // Clase para el contenedor principal de la librería
             tag: 'react-tags__tag', // Clase para cada etiqueta
             remove: 'react-tags__remove', // Clase para el botón 'x'
-            textInput: 'react-tags__textInput', // Clase para el campo de texto
-            tags: 'tagsClass',
+            //textInput: 'react-tags__textInput', // Clase para el campo de texto
+            //tags: 'tagsClass',
             tagInput: 'tagInputClass',
             tagInputField: 'tagInputFieldClass',
             selected: 'selectedClass',
@@ -76,11 +90,12 @@ function Search(props) {
           editable
           clearAll
           onClearAll={onClearAll}
-          clearAllLabel="Limpiar"
+          //clearAllLabel="Limpiar" /* This is not a supported prop */
           maxTags={7}
           placeholder='Agrega una nueva etiqueta...'
-          ariaAttrs="Limpiar"
-        
+          //ariaAttrs="Limpiar"
+          ariaAttrs={{ clearAllLabel: 'Limpiar' }}
+
         />
         {/* <img src={searchIcon} alt="Buscar" className="search-icon" /> */}
       </div>

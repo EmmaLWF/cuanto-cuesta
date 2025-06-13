@@ -1,6 +1,6 @@
 const router = require('express').Router();
-const itemsController = require('./controllers/items');
-const supermercadosController = require('./controllers/supermercados');
+const itemsController = require('../controllers/items.js');
+const supermercadosController = require('../controllers/supermercados');
 
 router.get('/items', itemsController.getItems);
 

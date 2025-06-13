@@ -1,5 +1,5 @@
 const express = require('express')
-const router = require('./router');
+const router = require('./routes/items.routes.js');
 const db = require('./models/index');
 var cors = require('cors')
 const app = express()
@@ -10,7 +10,8 @@ app.use(express.json()); // este es el bodyparser
 app.use(router);
 
 (async function bootstrap () {
-  await db.sequelize.sync(); 
+  await db.sequelize.sync();
   app.listen(port);
-  console.log('Server listening');
+  /* Added the url for ease of access */
+  console.log(`Server listening at http://localhost:${port}`);
 })();

@@ -1,0 +1,26 @@
+{
+  /*** MOST IMPORTANT SETTING IS "allowJs": true This lets to convert the project 1 file at a time without breaking everything ***/
+  "compilerOptions": {
+    /* Basic Options */
+    "target": "ES2020",                       // Compile to a modern version of JavaScript
+    "module": "CommonJS",                      // The standard module system for Node.js
+    "outDir": "./dist",                        // Where to output the compiled JavaScript files
+    "rootDir": "./src",                        // The root directory of our source TypeScript files
+
+    /* Strict Type-Checking Options */
+    "strict": true,                            // Enable all strict type-checking options (best practice)
+    "noImplicitAny": true,                     // Raise error on expressions and declarations with an implied 'any' type
+
+    /* Module Resolution Options */
+    "esModuleInterop": true,                   // Enables compatibility with CommonJS modules like 'require'
+    "allowSyntheticDefaultImports": true,
+    /* Incremental Migration Setting */
+    "allowJs": true,                           // IMPORTANT: Allows JavaScript files to be imported into TypeScript files
+
+    /* Advanced Options */
+    "skipLibCheck": true,                      // Skip type checking of declaration files
+    "forceConsistentCasingInFileNames": true   // Disallow inconsistently-cased references to the same file
+  },
+  "include": ["src/**/*"],                     // Which files TypeScript should watch and compile
+  "exclude": ["node_modules"]                  // Which files to ignore
+}

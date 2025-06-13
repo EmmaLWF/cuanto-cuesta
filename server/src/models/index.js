@@ -2,12 +2,32 @@ const fs = require('fs');
 const path = require('path');
 const Sequelize = require('sequelize');
 
-const config = {
+// Load environment variables from the .env file
+require('dotenv').config();
+
+// changing the config to use .env values
+
+/* const config = {
   host: 'localhost',
   dialect: 'postgres'
-};
+}; */
 
-const sequelize = new Sequelize('cuanto-cuesta', 'admin', 'admin', config); 
+const config = {
+  host: process.env.DB_HOST || 'localhost',
+  dialect: process.env.DB_DIALECT || 'postgres'
+}
+
+
+/* Here is some hard coded values used . Creating a .env file to do the same */
+/*const sequelize = new Sequelize('cuanto-cuesta', 'postgres', 'Admin123', config);*/
+
+const sequelize = new Sequelize(
+  process.env.DB_NAME,
+  process.env.DB_USER,
+  process.env.DB_PASS,
+  config
+);
+
 const db = {};// message db
 
 const files = fs.readdirSync(__dirname);

@@ -1,5 +1,5 @@
 import request from 'supertest';
-import app from '../app' // Import your configured Express app
+import app from '../../app' // Import your configured Express app
 
 describe('GET /api/items', () => {
   it('should respond with a 200 status code', async () => {
